@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cosmic+🚀;Cybersecurity+Enthusiast+🔐;AI+Developer+🤖;;Gamer+🎮;Always+Leveling+Up+💥)](https://git.io/typing-svg)
+
 # 👋 Hey there! I'm Shubham Shashank Singh 
 
 I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelligent tools and innovative software. 
