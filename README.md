@@ -1,8 +1,7 @@
-# 👋 Hey there! I'm Cosmic
+# 👋 Hey there! I'm Shubham Shashank Singh 
 
-> "Loose? I don't loose. I win. That's my job. That's what I do."  
-
-I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelligent tools and innovative software. From **Jarvis.py** to custom OS projects, I love building tech that actually does something epic.  
+I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelligent tools and innovative software. 
+From **Jarvis.py** to custom OS projects, I love building tech that actually does something epic.  
 
 ---
 
@@ -10,8 +9,7 @@ I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelli
 - 🔭 Currently building **Jarvis.py**, integrating AI, IoT, and network automation  
 - 🌱 Learning advanced **Operating Systems & Industrial Management**  
 - 👾 Gamer at heart — Minecraft, Valorant, BGMI & more  
-- 💡 Passionate about problem-solving, coding, and creating **AI-powered solutions**  
-- 🥊 Secretly training a hybrid combat style inspired by Baki Hanma 😎  
+- 💡 Passionate about problem-solving, coding, and creating **AI-powered solutions**
 
 ---
 
