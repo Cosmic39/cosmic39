@@ -5,7 +5,7 @@ From **Jarvis.py** to custom OS projects, I love building tech that actually doe
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🔭 Currently building **Jarvis.py**, integrating AI, IoT, and network automation  
 - 🌱 Learning advanced **Operating Systems & Industrial Management**  
 - 👾 Gamer at heart — Minecraft, Valorant, BGMI & more  
@@ -26,7 +26,6 @@ From **Jarvis.py** to custom OS projects, I love building tech that actually doe
 | Project | Description | Status |
 |---------|-------------|--------|
 | **Jarvis.py** | AI assistant with speech, automation, and smart home integration | Ongoing |
-| **Custom OS** | Building an OS from scratch with intelligent modules | Ongoing |
 | **AI Models & Simulations** | Navigation & stability simulations in AI environments | Active |
 | **Minecraft Experiments** | Server mods, networking tricks, gameplay automations | Fun Project |
 
