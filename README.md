@@ -10,7 +10,7 @@ From **Jarvis.py** to custom OS projects, I love building tech that actually doe
 ## About Me
 - 🔭 Currently building **Jarvis.py**, integrating AI, IoT, and network automation  
 - 🌱 Learning advanced **Operating Systems & Industrial Management**  
-- 👾 Gamer at heart — Minecraft, Valorant, BGMI & more  
+- 👾 Gamer at heart — Minecraft, Valorant, Counter Strike, BGMI & more  
 - 💡 Passionate about problem-solving, coding, and creating **AI-powered solutions**
 
 ---
