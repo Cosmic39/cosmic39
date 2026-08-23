@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shubham+🚀;Cybersecurity+Enthusiast+🔐;AI+Developer+🤖;Robotics+Innovator+⚡;Gamer+🎮;Always+Leveling+Up+💥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Cosmic+🚀;Cybersecurity+Enthusiast+🔐;AI+Developer+🤖;Robotics+Innovator+⚡;Gamer+🎮;Always+Leveling+Up+💥)](https://git.io/typing-svg)
 
-# 👋 Hey there! I'm Shubham Shashank Singh 
+# 👋 Hey there! I'm Cosmic 
 
 I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelligent tools and innovative software. 
 From **Jarvis.py** to custom OS projects, I love building tech that actually does something epic.  
