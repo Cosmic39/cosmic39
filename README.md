@@ -3,7 +3,7 @@
 # 👋 Hey there! I'm Cosmic 
 
 I'm a **Cybersecurity & AI enthusiast** on a mission to create powerful, intelligent tools and innovative software. 
-From **Jarvis.py** to custom OS projects, I love building tech that actually does something epic.  
+I love building tech that actually does something epic.  
 
 ---
 
